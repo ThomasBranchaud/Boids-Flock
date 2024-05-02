@@ -1,0 +1,23 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" FlockingEditor Win64 Development -Project="C:\Users\tabranchaud\Documents\Unreal Projects\Flocking\Flocking.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\tabranchaud\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for FlockingEditor (FlockingManager.cpp.obj.response modified)
+  Building FlockingEditor...
+  Using Visual Studio 2022 14.37.32822 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in FlockingEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 4 actions with 4 processes...
+  [1/4] Compile [x64] FlockingManager.cpp
+  [2/4] Link [x64] UnrealEditor-Flocking.lib
+     Creating library C:\Users\tabranchaud\Documents\Unreal Projects\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\UnrealEditor-Flocking.lib and object C:\Users\tabranchaud\Documents\Unreal Projects\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\UnrealEditor-Flocking.exp
+  [3/4] Link [x64] UnrealEditor-Flocking.dll
+     Creating library C:\Users\tabranchaud\Documents\Unreal Projects\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\UnrealEditor-Flocking.suppressed.lib and object C:\Users\tabranchaud\Documents\Unreal Projects\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\UnrealEditor-Flocking.suppressed.exp
+  [4/4] WriteMetadata FlockingEditor.target
+  Total time in Parallel executor: 5.40 seconds
+  Total execution time: 6.92 seconds

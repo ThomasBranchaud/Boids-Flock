@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\unrealeditor\\inc\\flocking\\uht\\flockingmanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\x64\\flockingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\flocking\\definitions.flocking.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\source\\flocking\\flockingmanager.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\unrealeditor\\inc\\flocking\\uht\\flockingmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\source\\flocking\\agent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\x64\\flockingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\flocking\\definitions.flocking.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\source\\flocking\\agent.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\unrealeditor\\inc\\flocking\\uht\\agent.generated.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\source\\flocking\\flockinggamemodebase.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\source\\flocking\\flockingmanager.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\unrealeditor\\inc\\flocking\\uht\\flockingmanager.generated.h",
+            "c:\\users\\tabranchaud\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\unrealeditor\\inc\\flocking\\uht\\flockinggamemodebase.generated.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
